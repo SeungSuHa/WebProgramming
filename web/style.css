@@ -30,22 +30,8 @@
 
 	/* 검색바 */
 
-	.search-box {
-			display: inline-flex;
-			position: relative;
-			border: solid 2px;
-			width: 500px;
-			background: #F1F3F5;
-			left: 50px;
-			top: 20px;
-	}
-
-	.search-text {
-			height: 40px;
-			width: 340px;
-			background: #F1F3F5;
-	}
-
+	
+	
 
 
 	.top ul {
